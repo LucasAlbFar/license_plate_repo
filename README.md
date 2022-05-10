@@ -9,7 +9,7 @@ API to receive German license plates, store them in a database and retrieve data
   * Payload: 
     * plate: German license plate;
 * GET /plate
-* GET /searc-plate
+* GET /search-plate
   * Parameters: 
     * key: German license plate;
     * levenshtein: Levenshtein distance;
