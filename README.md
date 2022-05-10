@@ -21,6 +21,6 @@ API to receive German license plates, store them in a database and retrieve data
 * Linux command:
   * sudo docker-compose up -d
 
-## Contato:
+## Contact:
 [<img src="https://img.shields.io/badge/LucasFaria-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasalbfar/)
 [<img src="https://img.shields.io/badge/lucasalbfar@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:lucasalbfarw@gmail.com)
